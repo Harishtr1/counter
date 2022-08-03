@@ -1,0 +1,21 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+font-family: 'BhuTuka Expanded One', cursive;
+}
+
+
+
+
+.container{
+	text-align: center;
+}
+.btn{
+	font c
+	background-color:white ;
+ font-weight:300px ;
+  border-radius:200px ;
+ table-transform: uppercase;
+ border-color: red;
+}
